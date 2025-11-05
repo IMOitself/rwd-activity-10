@@ -1,4 +1,4 @@
-# responsive web design 
+# responsive web design activity 10
 | Activity | Link |
 | ----- | :---: |
 | 123    | [ACTIVITY 123](https://github.com/IMOitself/rwd-activity-123) |
@@ -10,4 +10,4 @@
 | 9    | [ACTIVITY 9](https://github.com/IMOitself/rwd-activity-9) |
 | 10    | [ACTIVITY 10](https://github.com/IMOitself/rwd-activity-10) |
 
-## [view pdf]()
+## [view pdf](https://github.com/IMOitself/rwd-activity-10/blob/master/basta.pdf)
